@@ -1,3 +1,5 @@
 # Qt5_Advanced_1.18_Threads_QFutureSynchronizer
 
-#SourceCode to be added soon
+#Under threads, QFutureSynchronizer discussed and
+
+#SourceCode added
